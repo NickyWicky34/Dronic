@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "LT3521")(type "KiCad")(uri "${KIPRJMOD}/LT3521.pretty")(options "")(descr ""))
+  (lib (name "Dronic")(type "KiCad")(uri "C:/Users/ranchen/Documents/Dronic/Dronic.pretty")(options "")(descr ""))
+  (lib (name "ABM3B-12")(type "KiCad")(uri "${KIPRJMOD}/ABM3B-12.pretty")(options "")(descr ""))
+  (lib (name "2137160001_MOL_USB-C")(type "KiCad")(uri "${KIPRJMOD}/2137160001_MOL_USB-C.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/ECH8690_TL_H/footprints.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "ECH8690_TL_H")(type "KiCad")(uri "${KIPRJMOD}/ECH8690_TL_H.pretty")(options "")(descr ""))
+  (lib (name "NTJD5121NT1G")(type "KiCad")(uri "${KIPRJMOD}/NTJD5121NT1G.pretty")(options "")(descr ""))
+)
