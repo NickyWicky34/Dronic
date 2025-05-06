@@ -5,4 +5,5 @@
   (lib (name "ABM3B-12.000MHZ-10-1-U-T")(type "KiCad")(uri "${KIPRJMOD}/ABM3B-12.000MHZ-10-1-U-T/ABM3B-12.000MHZ-10-1-U-T.kicad_sym")(options "")(descr ""))
   (lib (name "2025-04-30_15-59-40")(type "KiCad")(uri "${KIPRJMOD}/ECH8690_TL_H/2025-04-30_15-59-40.kicad_sym")(options "")(descr ""))
   (lib (name "2025-04-30_16-42-25")(type "KiCad")(uri "${KIPRJMOD}/NTJD5121NT1G/2025-04-30_16-42-25.kicad_sym")(options "")(descr ""))
+  (lib (name "ACS71240LLCBTR-050U5")(type "KiCad")(uri "${KIPRJMOD}/ACS71240LLCBTR-050U5/ACS71240LLCBTR-050U5.kicad_sym")(options "")(descr ""))
 )

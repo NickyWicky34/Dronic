@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS71240LLCBTR-050U5
+D Automotive-Grade, Galvanically Isolated Current Sensor IC With Common-Mode Field Rejection And Overcurrent Detection
+K
+F https://www.allegromicro.com/-/media/files/datasheets/acs71240-datasheet.ashx
+$ENDCMP
+#
+#End Doc Library

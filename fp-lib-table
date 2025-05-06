@@ -8,4 +8,5 @@
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/ECH8690_TL_H/footprints.pretty/Library.pretty")(options "")(descr ""))
   (lib (name "ECH8690_TL_H")(type "KiCad")(uri "${KIPRJMOD}/ECH8690_TL_H.pretty")(options "")(descr ""))
   (lib (name "NTJD5121NT1G")(type "KiCad")(uri "${KIPRJMOD}/NTJD5121NT1G.pretty")(options "")(descr ""))
+  (lib (name "ACS71240LLCBTR-050U5")(type "KiCad")(uri "${KIPRJMOD}/ACS71240LLCBTR-050U5.pretty")(options "")(descr ""))
 )

@@ -1,4 +1,4 @@
-25217688196623047
+25219434762860428
 2137160001_MOL_USB-C
 2137160001_MOL
 
@@ -13,6 +13,13 @@ XTAL_ABM3B-12.000MHZ-10-1-U-T
 0
 4
 4
+ACS71240LLCBTR-050U5
+SOIC127P600X175-8N
+LC 8-pin SOIC
+Integrated Circuit
+0
+8
+8
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
